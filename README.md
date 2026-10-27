@@ -97,4 +97,3 @@ hotel-booking-revenue-dashboard/
 **Adeen Ali**
 [LinkedIn](https://www.linkedin.com/in/adeen-ali)
 
-Feedback and suggestions are welcome.
