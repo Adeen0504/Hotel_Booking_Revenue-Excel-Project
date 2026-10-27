@@ -4,7 +4,7 @@ An interactive Excel dashboard that analyses booking performance, revenue and ca
 
 > **Note:** The dataset is synthetic (AI-generated) and was created for portfolio purposes. The insights demonstrate the analysis approach, not real business results.
 
-![Hotel Booking & Revenue Dashboard](Images/dashboard.png)
+![Hotel Booking & Revenue Dashboard](Images/Dashboard.png)
 
 ---
 
